@@ -1,1 +1,1 @@
-JAVA QAP (Quantative Assesment Practice) 1 
+JAVA QAP (Quantative Assessment Practice) 1 
